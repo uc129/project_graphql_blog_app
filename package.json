@@ -35,5 +35,9 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "postcss": "^8.3.8",
     "tailwindcss": "^2.2.7"
-  }
+  },
+  "main": "pages/index,js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
